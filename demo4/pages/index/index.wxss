@@ -1,0 +1,216 @@
+/**index.wxss**/
+.k{
+ width: 750rpx;
+ height: 20rpx;
+}
+.ln1 {
+width: 750rpx;
+height: 352rpx;
+}
+.two{
+  background-color: #FFFFFF;
+    margin-top: 20rpx;
+    margin-bottom: 20rpx,
+}
+.ln2 {
+
+  margin-left: 45rpx;
+}
+
+.ln22 {
+  float: left;
+width: 88rpx;
+height: 88rpx;
+}
+
+.txt1 {
+ margin-top: 20rpx;
+  font-size: 28rpx;
+  line-height: 1;
+}
+.txt2 {
+  margin-top: 20rpx;
+  font-size: 28rpx;
+  line-height: 1;
+}
+
+.text1 {
+ margin-left: 47rpx
+}
+
+.text2 {
+ margin-left: 28rpx
+}
+
+.three{
+  background: #fff;
+
+}
+.port1{
+  overflow: hidden;
+  float: left;
+  width: 374rpx;
+  height: 270rpx;
+}
+.title1{
+  padding-top: 20rpx;
+  color:#222020;
+  font-size: 32rpx;
+  line-height: 1;
+  margin-left: 97rpx;
+}
+.ln31{
+  padding-top: 21rpx;
+  float: left;
+  width: 178rpx;
+  height: 178rpx;
+  margin-left: 98rpx;
+}
+
+.port2{
+  overflow: hidden;
+  margin-left: 16rpx;
+  width: 374rpx;
+  height: 270rpx;
+}
+.title2{
+  padding-top: 20rpx;
+  color:#222020;
+  font-size: 32rpx;
+  line-height: 1;
+  margin-left: 47rpx;
+}
+
+.ln32{
+  padding-top: 21rpx;
+  float: left;
+  width: 178rpx;
+  height: 178rpx;
+  margin-left: 97rpx;
+}
+.four{
+    margin-top: 20rpx;
+    margin-bottom: 20rpx,
+}
+
+
+.text5{
+  margin-left: 65rpx;
+   font-size: 30rpx;
+   line-height: 1;
+   margin-top: 55rpx;
+   margin-bottom: 23rpx;
+
+}
+
+.text6{
+  margin-left: 131rpx;
+   font-size: 30rpx;
+   line-height: 1;
+   margin-top: 55rpx;
+   margin-bottom: 23rpx;
+
+}
+
+.text7{
+  margin-left: 127rpx;
+   font-size: 30rpx;
+   line-height: 1;
+   margin-top: 55rpx;
+   margin-bottom: 23rpx;
+
+}
+
+.ln33 {
+width: 120rpx;
+height: 120rpx;
+margin-left: 65rpx;
+float:left;
+}
+
+.ln34 {
+width: 120rpx;
+height: 120rpx;
+margin-left: 131rpx;
+float:left;
+}
+
+.ln35 {
+width: 120rpx;
+height: 120rpx;
+margin-left: 130rpx;
+
+}
+
+.txt5{
+  width: 750rpx;
+  height: 82rpx;
+}
+
+.fivet{
+  background: #fff;
+  margin-top: 20rpx;
+}
+.fivet-title{
+  position: relative;
+  font-size: 34rpx;
+  line-height: 1.2;
+  color: #ff0000;
+  padding: 10rpx 20rpx;
+  text-indent: 40rpx;
+}
+.block-title::after{
+  position: absolute;
+  left: 20rpx;
+  top: 10rpx;
+  content: "";
+  width: 10rpx;
+  height: 40rpx;
+  background: #ff0000;
+}
+
+.five{
+  background: #fff;
+
+}
+.port6{
+  overflow: hidden;
+  float: left;
+  width: 374rpx;
+  height: 450rpx;
+}
+.ln51{
+  padding-top: 20rpx;
+  float: left;
+  width: 346rpx;
+  height: 338rpx;
+  margin-left: 20rpx;
+}
+.title6{
+  color:#222020;
+  font-size: 30rpx;
+  line-height: 1;
+  margin-left: 30rpx;
+}
+.port7{
+  overflow: hidden;
+  margin-left: 16rpx;
+  width: 374rpx;
+  height: 450rpx;
+}
+.ln52{
+  padding-top: 20rpx;
+  float: left;
+  width: 346rpx;
+  height: 338rpx;
+  margin-left: 8rpx;
+}
+.title7{
+  color:#222020;
+  font-size: 30rpx;
+  line-height: 1;
+  margin-left: 37rpx;
+}
+
+
+

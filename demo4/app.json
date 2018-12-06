@@ -1,0 +1,47 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/type/type",
+    "pages/mine/mine"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F91B27",
+    "navigationBarTitleText": "优优久",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "black",
+    "selectedColor": "red",
+    "borderStyle": "black",
+    "backgroundColor": "white",
+    "position": "bottom",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "image/wechats.png",
+        "selectedIconPath": "image/12.png"
+      },
+      {
+        "text": "分类",
+        "pagePath": "pages/type/type",
+        "iconPath": "image/21.png",
+        "selectedIconPath": "image/wechat.png"
+      },
+      {
+        "text": "服务",
+        "pagePath": "pages/logs/logs",
+        "iconPath": "image/31.png",
+        "selectedIconPath": "image/wechat.png"
+      },
+      {
+        "text": "我的",
+        "pagePath": "pages/mine/mine",
+        "iconPath": "image/41.png",
+        "selectedIconPath": "image/wechat.png"
+      }
+    ]
+  }
+}

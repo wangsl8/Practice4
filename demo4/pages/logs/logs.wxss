@@ -1,0 +1,12 @@
+.img{
+  width:750rpx;
+  height:350rpx;
+}
+.text{
+   width: 690rpx;
+   height: 84rpx;
+   font-size: 30rpx;
+   margin-top: 30rpx;
+   margin-left: 30rpx;
+   color: #222020;
+}

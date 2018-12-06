@@ -1,0 +1,81 @@
+<!--index.wxml-->
+<view class="one">
+       <image class="ln1"  src="{{imageSrc}}"></image>
+</view>
+
+<view class="k">
+</view>
+
+<view class="two">
+    <view class="ln2">
+         <image class="ln22"  src="{{imageSrc1}}"></image>
+    </view>
+
+    <view class="txt1">
+         <text class="text1">2018-06-12</text>
+         <text class="text2">IT设备租赁已成为新常态</text>
+    </view>
+
+    <view class="txt2">
+         <text class="text1">2018-06-12</text>
+         <text class="text2">家用灭火器和商用有何区别？</text>
+    </view>
+
+</view>
+
+<view class="k">
+</view>
+
+<view class='three'>
+  <view class='port1'>
+    <view class='title1'>
+     <text>商用消防设备</text>
+    </view>
+    <image class='ln31' src="{{imageSrc3}}"></image>
+  </view>
+  <view class='port2'>
+    <view class='title2'>
+     <text>家用/车载消防设备</text>
+    </view>
+    <image class='ln32' src="{{imageSrc4}}"></image>
+  </view>
+   
+</view>
+
+<view class="four">
+     
+    <view class="txt4">
+          <text class="text5">资讯专区</text>
+          <text class="text6">定制服务</text>
+          <text class="text7">我的奖励</text>
+    </view>
+
+    <view class="ln4">
+          <image class="ln33"  src="{{imageSrc5}}"></image>
+          <image class="ln34"  src="{{imageSrc6}}"></image>
+          <image class="ln35"  src="{{imageSrc7}}"></image>
+    </view>
+
+</view>
+
+
+<view class='fivet'>
+<view class='fivet-title'>热租推荐</view>
+</view>
+
+<view class='five'>
+  <view class='port6'>
+    <image class='ln51' src="{{imageSrc8}}"></image>
+    <view class='title6'>
+     <text>淮海4kg公斤干粉灭火器\n商用手提式</text>
+    </view>
+  </view>
+  <view class='port7'>
+    <image class='ln52' src="{{imageSrc9}}"></image>
+    <view class='title7'>
+      <text>火焰战士车载灭火器汽车\n车用灭火筒</text>
+    </view>
+  </view>
+</view>
+
+ 

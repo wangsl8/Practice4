@@ -1,0 +1,15 @@
+<!--logs.wxml-->
+
+<block wx:for='{{array}}'>
+
+  <view class='block'>
+
+    <image class='img' src='{{item.url}}' />
+
+    <view class='text'>{{item.text}}</view>
+
+  </view>
+
+  
+
+</block>
